@@ -1,2 +1,2 @@
 # ShopFlow-project-
-ShopFLow is a Java OOP-based inventory management system project.
+A console-based File Management System built in Java, leveraging Object-Oriented Programming (OOP) principles. The project includes an Admin interface for managing an inventory catalog, categorized into products like Medical Care, Clothes, Accessories, and Electronics, with persistent file storage functionality. Ideal for learning core Java concepts and file handling techniques
